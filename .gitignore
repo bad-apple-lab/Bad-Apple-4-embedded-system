@@ -1,0 +1,52 @@
+.vscode/
+
+# python module
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
+# executable
+*.exe
+*.out
+
+*.a
+*.so
+*.lib
+*.dll
+
+# video
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.mpeg
+*.m4v
+*.flv
+*.rmvb
+*.ts
+
+# image
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+
+# archive
+*.tar
+*.gz
+*.tgz
+*.rar
+*.zip
+*.7z
+
+archive/
+*/temp/
+tempCodeRunnerFile.cpp
